@@ -1,2 +1,2 @@
 # Over_The_Wire
-Learning cybersecurity by on overthewire.org
+Learning cybersecurity on overthewire.org
